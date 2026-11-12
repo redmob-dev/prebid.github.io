@@ -11,7 +11,7 @@ dsa_supported: false
 gpp_sids: tcfeu, tcfca, usnat, usstate_all, usp
 schain_supported: true
 dchain_supported: false
-media_types: banner, video
+media_types: banner, video, native
 safeframes_ok: false
 deals_supported: false
 floors_supported: true
@@ -27,7 +27,7 @@ sidebarType: 1
 userIds: all
 ---
 
-### Note
+## Note
 
 The Redmob bidding adapter requires setup before beginning. Please contact us at [prebid@redmob.io](mailto:prebid@redmob.io) to obtain a supply partner ID.
 
